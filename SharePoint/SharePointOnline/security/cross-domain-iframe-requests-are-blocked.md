@@ -21,7 +21,7 @@ appliesto:
 
 Cross-domain iframe requests to SharePoint Online organizations are blocked.
 
-## Solution
+## Possible Reasons
 
 This issue occurs when one of the following conditions is true:
 
